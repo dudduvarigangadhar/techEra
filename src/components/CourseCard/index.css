@@ -1,0 +1,30 @@
+.cardContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  width: 850px;
+  border-radius: 10px;
+  border: none;
+  box-shadow: #f1f5f9 2px 2px 2px 2px;
+}
+
+.imgCard {
+  height: 500px;
+  border-radius: 10px;
+  width: 400px;
+}
+
+.nameCard {
+  font-family: Roboto;
+  color: #1e293b;
+  margin-left: 20px;
+}
+
+.paraCard {
+  font-family: 'Roboto';
+  color: #475569;
+  margin-left: 20px;
+  line-height: 2;
+  width: 400px;
+  font-size: 20px;
+}

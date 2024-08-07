@@ -1,0 +1,50 @@
+.Heading {
+  font-family: 'Roboto';
+  margin-left: 6%;
+}
+
+.loaderContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.coursesContainer {
+  display: flex;
+  flex-direction: row;
+  /* justify-content: center; */
+  align-items: center;
+  flex-wrap: wrap;
+  padding-left: 20px;
+  width: 1200px;
+  height: 70vh;
+  margin-left: 15%;
+}
+
+.HomeContainer {
+}
+
+.imgContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-right: 5%;
+  width: 200px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.imgElement {
+  margin-right: 10px;
+}
+
+.name {
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #1e293b;
+}
+
+.failureImg {
+  height: 300px;
+}

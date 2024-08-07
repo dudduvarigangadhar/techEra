@@ -1,0 +1,10 @@
+.courseCardDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.failureImg {
+  height: 300px;
+}
